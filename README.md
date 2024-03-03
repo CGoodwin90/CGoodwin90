@@ -1,4 +1,4 @@
-- 👋 &nbsp;I'm currently working as a Junior Software Engineer at amazee.io
+- 👋 &nbsp;I'm currently working as a Software Engineer at amazee.io
 - 👨🏻‍💻 &nbsp;In the office I use: <code>Golang</code>, <code>JavaScript</code>, <code>React</code>, <code>Docker</code>, <code>Kubernetes</code>
 - 🏡 &nbsp;At home I use: <code>React</code>, <code>Rails</code>, <code>Golang</code>
 - 🌱 &nbsp;I’m currently learning:
